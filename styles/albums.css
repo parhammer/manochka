@@ -28,7 +28,7 @@ h2 {
 }
 
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
 
     .albums {
         display: flex;
